@@ -1,1 +1,1 @@
-FROM FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.25.2
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.25.2
